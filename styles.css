@@ -7,7 +7,7 @@
 header {
     width: 95%;
     height: 40px;
-    background: #c0bdc9;
+    background: #da227a;
     margin: 4px;
 }
 .header2 {
@@ -21,12 +21,12 @@ header {
 .main {
     width: 61%;
     height: 600px;
-    background: black;
+    background: #75ace8;
 }
 footer {
     width: 95%;
     height: 30px;
-    background: #c5d3d3;
+    background: #23d3da;
     padding-top: 7px;
 
 }
